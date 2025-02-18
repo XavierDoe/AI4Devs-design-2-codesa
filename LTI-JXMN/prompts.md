@@ -32,4 +32,5 @@
   Criterios de Aceptación: Lista de condiciones que deben cumplirse.  
   Dependencias: (Si las hubiera)  
  Asegúrate de que cada ticket esté claramente definido para facilitar su desarrollo y seguimiento."
+
  - "Genera un .md, con las respuestas anteriores"
